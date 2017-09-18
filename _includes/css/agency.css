@@ -264,7 +264,7 @@ fieldset[disabled] .btn-xl.active {
         font-size: 1.5em;
     }
 }
-
+/*
 header {
     text-align: right;
     color: #fff;
@@ -323,14 +323,14 @@ header .intro-text .intro-heading {
         line-height: 75px;
     }
 }
-
+*/
 header.masthead {
   position: relative;
   width: 100%;
   min-height: auto;
   text-align: center;
   color: white;
-  background-image: url("../img/header.jpg");
+  background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
   background-position: center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
