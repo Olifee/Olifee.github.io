@@ -270,7 +270,8 @@ fieldset[disabled] .btn-xl.active {
     }
   
     .navbar-nav>li>a {
-      padding: 10px 0;
+      padding-top: 12px;
+      padding-bottom: 12px;
    }
   
     .navbar-brand {
