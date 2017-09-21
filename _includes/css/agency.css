@@ -250,6 +250,9 @@ fieldset[disabled] .btn-xl.active {
     }
 
     .navbar-default .navbar-brand {
+        pointer-events: none;
+        cursor: default;
+        opacity: 0;
         font-size: 2em;
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
@@ -266,7 +269,7 @@ fieldset[disabled] .btn-xl.active {
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
-        font-size: 1.5em;
+        opacity: 1;
     }
   
     .navbar-nav>li>a {
