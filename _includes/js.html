@@ -16,11 +16,14 @@
 
     <!-- Custom Theme JavaScript -->
     <script src="{{ "/js/agency.js" | prepend: site.baseurl }}"></script>
-    <script>
-     $(function(){
-       $(".element").typed({
-         strings: ["First sentence.", "Second sentence."],
-         typeSpeed: 0
-       });
-     });
+    <script type="text/javascript">
+        $(function(){
+          var options = {
+            strings: [
+            "Hello",
+            "My Name Is Aditya Aundhekar",
+            "I'm a Computer Engineer.."]
+        }
+           var typed = new Typed(".type", options);
+        })
     </script>
