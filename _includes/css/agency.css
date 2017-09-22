@@ -299,9 +299,10 @@ header.masthead {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover; }
-  .btn-xl {
+  .header-button {
     position: absolute;
-    bottom: 10px;
+    bottom: 5%;
+    width: 100%;
   }  
   header.masthead .header-content {
     position: relative;
@@ -324,7 +325,7 @@ header.masthead {
   @media (min-width: 768px) {
     header.masthead {
       height: 100%;
-      min-height: 600px; }
+      min-height: 100%; }
       header.masthead .header-content {
         position: absolute;
         top: 50%;
