@@ -45,7 +45,7 @@
     <header class="masthead">
       <div class="header-content">
         <div class="header-content-inner">
-           <h1>I'm <span id="typed"></span></h1>
+            <div class="element"></div>
            <h1 id="homeHeading">Your Favorite Source of Free Bootstrap Themes</h1>
           <hr>
           <p>Start Bootstrap can help you build better websites using the Bootstrap CSS framework! Just download your template and start going, no strings attached!</p>
@@ -54,14 +54,15 @@
       </div>
     </header>
 
-<script src="../js/typed.js" type="text/javascript"></script>
 <script>
-    $("#typed").typed({
-        strings: ["a web developer.", "a web designer.", "Matt."],
-        typeSpeed: 30
-    });
-
+  $(function(){
+      $(".element").typed({
+        strings: ["First sentence.", "Second sentence."],
+        typeSpeed: 0
+      });
+  });
 </script>
+
 
 <!--
         {% for page in site.pages %}
