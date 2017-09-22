@@ -17,13 +17,9 @@
     <!-- Custom Theme JavaScript -->
     <script src="{{ "/js/agency.js" | prepend: site.baseurl }}"></script>
     <script type="text/javascript">
-        $(function(){
-          var options = {
-            strings: [
-            "Hello",
-            "My Name Is Aditya Aundhekar",
-            "I'm a Computer Engineer.."]
-        }
-           var typed = new Typed(".type", options);
-        })
+      var typed = new Typed(".typed-text", {
+         // Waits 1000ms after typing "First"
+         strings: ["This is a JavaScript library", "This is an ES6 module"],
+         smartBackspace: true // Default value
+       });
     </script>
