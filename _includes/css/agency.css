@@ -362,9 +362,16 @@ header.masthead .header-content .header-content-inner p {
     max-width: 80%;
     margin-right: auto;
     margin-left: auto; 
-  } 
+  }
 }
 
+.typed-cursor {
+    opacity: 1;
+    display: inline;
+    margin: 0px;
+    -webkit-animation: blink 0.7s infinite;
+    animation: blink 0.7s infinite;
+}
 
 section {
     padding: 100px 0;
