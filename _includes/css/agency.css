@@ -366,6 +366,9 @@ header.masthead .header-content .header-content-inner p {
   }
 }
 
+.highlight-word {
+  font-color: #{{ site.data.template.color.primary }};
+
 .typed-cursor {
     font-weight: 500;
     opacity: 1;
