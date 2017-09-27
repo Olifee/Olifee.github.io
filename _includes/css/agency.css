@@ -290,7 +290,7 @@ fieldset[disabled] .btn-xl.active {
 header.masthead {
   position: relative;
   width: 100%;
-  min-height: auto;
+  min-height: 100%;
   text-align: center;
   color: white;
   background-image: url('{{ site.baseurl }}/img/header-bg_dark.jpg');
@@ -309,19 +309,19 @@ header.masthead {
     width: 100%;
     padding: 150px 15px 100px;
     text-align: center; }
-    header.masthead .header-content .header-content-inner h1 {
-      font-size: 30px;
-      font-weight: 700;
-      margin-top: 0;
-      margin-bottom: 0;
-      text-transform: uppercase; }
-    header.masthead .header-content .header-content-inner hr {
-      margin: 30px auto; }
-    header.masthead .header-content .header-content-inner p {
-      font-size: 16px;
-      font-weight: 300;
-      margin-bottom: 50px;
-      color: rgba(255, 255, 255, 0.7); }
+  header.masthead .header-content .header-content-inner h1 {
+    font-size: 3.5em;
+    font-weight: 700;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-transform: uppercase; }
+  header.masthead .header-content .header-content-inner hr {
+    margin: 30px auto; }
+  header.masthead .header-content .header-content-inner p {
+    font-size: 16px;
+    font-weight: 300;
+    margin-bottom: 50px;
+    color: rgba(255, 255, 255, 0.7); }
   @media (min-width: 768px) {
     header.masthead {
       height: 100%;
