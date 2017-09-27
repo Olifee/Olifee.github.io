@@ -366,11 +366,12 @@ header.masthead .header-content .header-content-inner p {
 }
 
 .typed-cursor {
+    font-weight: 500;
     opacity: 1;
     display: inline;
     margin: 0px;
-    -webkit-animation: blink 0.7s infinite;
-    animation: blink 0.7s infinite;
+    -webkit-animation: blink 0.9s infinite;
+    animation: blink 0.9s infinite;
 }
 
 @keyframes blink{
