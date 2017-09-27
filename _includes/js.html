@@ -18,11 +18,14 @@
     <script src="{{ "/js/agency.js" | prepend: site.baseurl }}"></script>
     <script type="text/javascript">
       var typed = new Typed(".typed-text", {
-         strings: ["Hi! My name is Vanessa.<br/>", "Hi! My name is Vanessa.<br/>I'm a Computer Science student from Germany.", "Hi! My name is Vanessa.<br/>I'm a Java developer and HCI expert.", "Hi! My name is Vanessa<br/> I'm currently doing research at the Computer Lab, University of Cambridge."],
+         strings: ["Hi! My name is Vanessa.<br/>",
+                   "Hi! My name is Vanessa.<br/>I'm a <span class="highlight-word">Computer Science student</span> living in Berlin, Germany.",
+                   "Hi! My name is Vanessa.<br/>I'm a <span class="highlight-word">Java developer</span> with special intrest in <span class="highlight-word">digital health</span>".,
+                   "Hi! My name is Vanessa.<br/>I hope to make the world a better place with the help of technology."],
          smartBackspace: true, // Default value
-         startDelay: 1000,
-         typeSpeed: 100,
+         startDelay: 3000,
+         typeSpeed: 80,
          backSpeed: 20,
-         backDelay: 1000
+         backDelay: 1100
        });
     </script>
