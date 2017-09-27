@@ -305,7 +305,10 @@ header.masthead {
   position: absolute;
   bottom: 5%;
   width: 100%;
-  border: none;
+  
+  .btn-xl {
+    border: none;
+  }
 }
 
 header.masthead .header-content {
