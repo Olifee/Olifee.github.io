@@ -1,15 +1,15 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: Advent Calendar
+subtitle: Java project
 layout: default
 modal-id: 4
-date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+date: 2016-12-01
+img: advent_calendar.gif
+thumbnail: advent_calendar_thumbnail.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: December 2016
+client: Private
+category: Java Development
+description: Running out of ideas for handcrafted calendars, I decided to go all nerdy and build a digital advents calendar to follow our annual christmas tradition. Every day, my boyfried would recieve a puzzle that he had to solve. The answer was then to be filled into the day's calendar page - if it matched, he would recieve a hint for the "final question", elsewise he would have to try again. The GUI was built with Javafx, and almost all texts were generated with random templates I created to make the app appear more dynamic. It was a lot of work, but definetely worth it! 
 
 ---
