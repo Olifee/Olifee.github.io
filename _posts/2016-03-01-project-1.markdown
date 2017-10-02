@@ -5,7 +5,7 @@ layout: default
 modal-id: 1
 date: 2016-03-01
 img: 2048.gif
-thumbnail: 2048_thumbnail.jpg
+thumbnail: 2048-thumbnail.jpg
 alt: image-alt
 project-date: March 2016
 client: Private
