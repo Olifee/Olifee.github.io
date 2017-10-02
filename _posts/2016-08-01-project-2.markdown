@@ -10,5 +10,5 @@ alt: image-alt
 project-date: August 2016
 client: University
 category: Java Development
-description: Blinken Lights is a [project](https://en.wikipedia.org/wiki/Project_Blinkenlights) created by the German Chaos Computer Club, which uses displays with low resolution but large dimension (e.g. buildings with illuminated windows) to create really cool animations. This Java implementation reads bml-files and simulates the described animations in a GUI window, built with Javafx and using the MVC pattern. Additional features include: a file-chooser menu filtering files in the right format, a color picker to change the "lights", automatic rescaling when changing the window size and a bar to change the display speed.
+description: Blinken Lights is a [project](https://en.wikipedia.org/wiki/Project_Blinkenlights) created by the German Chaos Computer Club, which uses displays with low resolution but large dimension (e.g. buildings with illuminated windows) to create really cool animations. This Java implementation reads bml-files and simulates the described animations in a GUI window, built with Javafx and using the MVC pattern. Additional features include a file-chooser menu filtering files in the right format, a color picker to change the "lights", automatic rescaling when changing the window size and a bar to change the display speed.
 ---
