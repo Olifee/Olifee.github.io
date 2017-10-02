@@ -8,7 +8,7 @@ img: shp2obj.gif
 thumbnail: shp2obj_thumbnail.jpg
 alt: image-alt
 project-date: September 2017
-client: Private
+client: Work
 category: Java Development
 description: The expressive power of 3D models is unlike any other geospatial format. Therefore, they are increasingly used for presentation, exploration, analysis and management tasks in the most varying application domains. Since - as of today - there are only few 3D city models openly available, I built a Java tool that creates 3D meshes in the popular Wavefront .obj format (used by MeshLab, Blender etc.) from simple ERSI Shapefiles describing building footprints. The OpenGIS library is used to parse the Shapefiles. Also, height information can be included into the Shapefiles via preprocessing methods (e.g. QGIS and the Zonal Statistics Plugin to derive a avarage building height from LiDAR data), so that the resulting 3D building model is scaled correctly into all dimensions. Random coloring is later applied to create individual building textures. This way, a LOD 1 city model of Cambridge, UK, was created by extruding building footprints using openly available LiDAR data (see images above). View the [full source code on GitHub](https://github.com/Olifee/shp2obj).
 ---
