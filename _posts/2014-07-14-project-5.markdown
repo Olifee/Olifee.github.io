@@ -1,15 +1,15 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: FirstAid Hero
+subtitle: Web app
 layout: default
 modal-id: 5
-date: 2014-07-14
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
+date: 2017-04-01
+img: firstaidhero.gif
+thumbnail: firstaidhero_thumbnail.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: April 2017
+client: University
+category: Java / Web Development
+description: As 6-month software project, our team designed and implemented "FirstAid Hero", a web app the encourages users to refresh and expand their knowlegde about first aid. Users can create their own accounts, earn points through quizzes to reach higher levels and recieve achievements for fulfilling challenges. They can add other users as friends, send them messages and compare their progress via a global ranking. My responsibility was to create and connect the database, implement the whole back-end using the Java Play framework and also the front-end with Scala. Another team member did all the Bootstrap styling and JavaScript coding, while the third one developed a Java tool to manage the database through a GUI. Find the offical demo video of our project [here](https://www.youtube.com/watch?v=5lit54v3g58).
 
 ---
