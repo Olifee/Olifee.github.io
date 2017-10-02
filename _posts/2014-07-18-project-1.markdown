@@ -1,15 +1,15 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: 2048 game
+subtitle: Java project
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+date: 2016-03-01
+img: 2048.gif
+thumbnail: 2048_thumbnail.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: March 2016
+client: Private
+category: Java Development
+description: This is a Java implementation of the popular 2048 game, made from scratch. Through a fully object-oriented design  clear encapsulation is guaranteed, and modifications like changing the board-size can be made within seconds. The graphical user interface (GUI) was built with Javafx. The program can be executed platform-independently. View the [full source code on GitHub](https://github.com/Olifee/2048-game).
 
 ---
