@@ -293,7 +293,7 @@ header.masthead {
   min-height: 100%;
   text-align: center;
   color: white;
-  background-image: url('{{ site.baseurl }}/img/header-bg_dark.jpg');
+  background-image: url('{{ site.baseurl }}/img/header-bg_dark-min.jpg');
   background-position: center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
