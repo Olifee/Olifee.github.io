@@ -1,5 +1,5 @@
-url: https://Olifee.github.io
-baseurl: /Olifee.github.io/
+url: https://vackermann.github.io
+baseurl: /vackermann.github.io/
 
 # Site settings
 title: Vanessa Ackermann
@@ -27,7 +27,7 @@ social:
   - title: xing
     url: https://www.xing.com/profile/Vanessa_Ackermann7
   - title: github
-    url: http://github.com/Olifee
+    url: http://github.com/vackermann
   
 
 # Postal address (add as many lines as necessary)
