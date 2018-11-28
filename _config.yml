@@ -4,8 +4,7 @@ baseurl: /vackermann.github.io/
 # Site settings
 title: Vanessa Ackermann
 email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-
+description: "Personal website of Vanessa Ackermann."
 
 # Team names, titles and social links
 people:
@@ -24,8 +23,6 @@ people:
 social:
   - title: linkedin 
     url: http://linkedin.com/in/vanessa-ackermann
-  - title: xing
-    url: https://www.xing.com/profile/Vanessa_Ackermann7
   - title: github
     url: http://github.com/vackermann
   
